@@ -1,0 +1,11 @@
+id = "juniper-junos"
+name = "Juniper Junos"
+version = "0.1.0"
+schema_version = 1
+authors = ["Thomas Scott <scotho3@scottho.me>"]
+description = "Juniper Junos configuration: show configuration, display set, groups and annotations."
+repository = "https://github.com/scotho3/zed-junos"
+
+[grammars.junos]
+repository = "https://github.com/scotho3/tree-sitter-junos"
+rev = "0d8ce20916aa5d09a170280994107ab9e996292d"
