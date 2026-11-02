@@ -3,6 +3,8 @@
 Syntax highlighting, bracket matching, indentation and an outline for
 Juniper Junos configuration: show configuration, display set, groups and annotations.
 
+![Juniper Junos configuration in Zed](screenshot.png)
+
 | Output | Example |
 |---|---|
 | `show configuration` | `system { host-name mx1; }` |
